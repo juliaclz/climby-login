@@ -19,7 +19,7 @@ html, body {
 
 /* ---- Brand Panel ---- */
 .brand-panel {
-  background-image: url('bg-left.jpeg');
+  background-image: url('../imagens/bg-left.jpeg');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
